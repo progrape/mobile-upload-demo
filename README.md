@@ -2,6 +2,8 @@
 
 移动端 Web 传图示例
 
+![](https://cloud.githubusercontent.com/assets/4652816/15246896/e9124292-1942-11e6-8456-c3c23d065159.png)
+
 #### 运行
 
 ```
