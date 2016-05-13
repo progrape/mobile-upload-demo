@@ -2,7 +2,7 @@
 
 移动端 Web 传图示例
 
-![](https://cloud.githubusercontent.com/assets/4652816/15246896/e9124292-1942-11e6-8456-c3c23d065159.png)
+![e9124292-1942-11e6-8456-c3c23d065159 1](https://cloud.githubusercontent.com/assets/4652816/15248612/c26e5bde-194d-11e6-8d21-3f934e1a8fa6.png)
 
 #### 详细说明
 
