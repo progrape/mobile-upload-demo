@@ -4,6 +4,10 @@
 
 ![](https://cloud.githubusercontent.com/assets/4652816/15246896/e9124292-1942-11e6-8456-c3c23d065159.png)
 
+#### 详细说明
+
+https://github.com/progrape/mobile-upload-demo/issues/1
+
 #### 运行
 
 ```
