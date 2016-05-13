@@ -1,0 +1,20 @@
+{
+    "name": "mobile-upload-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "uploader.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "co-busboy": "^1.3.1",
+        "koa": "^1.2.0",
+        "koa-logger": "^1.3.0",
+        "koa-mount": "^1.3.0",
+        "koa-static": "^2.0.0"
+    }
+}
